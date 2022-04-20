@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ricomasgu
-- 👀 I’m interested in having fun
+- 👀 I’m interested in having a lot of fun
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate with people who have a lot of knowledge and want to share a little bit
 - 📫 How to reach me, easy, rcomas.dev@gmail.com
