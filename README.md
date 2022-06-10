@@ -5,7 +5,7 @@
 - 📫 How to reach me, easy, rcomas.dev@gmail.com
 
 LATEST PROJECTS I AM WORKING:
-OnlyPlants --> <a href="onlyplants.netlify.app">onlyplants.netlify.app</a>
+<a href="https://onlyplants.netlify.app">OnlyPlants</a>
 
 <!---
 ricomasgu/ricomasgu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
