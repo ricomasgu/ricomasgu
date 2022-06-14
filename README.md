@@ -5,8 +5,8 @@
 - 📫 How to reach me, easy, rcomas.dev@gmail.com
 
 ### Latest projects I am working on:
- - [OnlyPlants](https://onlyplants.netlify.app)
- - [Timeful](https://drive.google.com/file/d/1CdpaBECJ-uhQwsfldT-Lf829kjtaG5JE/view?usp=sharing)
+ - [OnlyPlants](https://onlyplants.netlify.app) 🌻
+ - [Timeful](https://drive.google.com/file/d/1CdpaBECJ-uhQwsfldT-Lf829kjtaG5JE/view?usp=sharing) ⏰
 
 
 <!---
